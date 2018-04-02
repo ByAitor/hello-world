@@ -1,0 +1,66 @@
+
+body{
+
+background-color: #AAAAAA;
+
+}
+ #section {
+	
+    border: 2px dashed steelblue;
+    padding: 2em;
+    margin: 5em auto;
+    width: 400px;
+    height: 440px;
+}
+
+  div{
+    border-radius: 5px;
+    color: #444;
+    font-side: 2.8em;
+    font-weight: bold;
+    line-height: 100px;
+    padding: .5em;
+    text-aling: center;
+    background: rgba(173, 216, 230, .7);
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+ .uno{
+    background-color: palegreen;
+    display: inline-block;
+ }
+  .dos{
+    background-color: tomato;
+    display: inline-block;
+ }
+  .tres{
+    background-color: lightblue;
+
+
+ }
+   .cuatro{
+    background-color: brown;
+
+}
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
